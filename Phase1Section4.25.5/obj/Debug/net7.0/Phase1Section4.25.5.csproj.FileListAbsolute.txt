@@ -1,0 +1,14 @@
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\bin\Debug\net7.0\Phase1Section4.25.5.exe
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\bin\Debug\net7.0\Phase1Section4.25.5.deps.json
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\bin\Debug\net7.0\Phase1Section4.25.5.runtimeconfig.json
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\bin\Debug\net7.0\Phase1Section4.25.5.dll
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\bin\Debug\net7.0\Phase1Section4.25.5.pdb
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\obj\Debug\net7.0\Phase1Section4.25.5.GeneratedMSBuildEditorConfig.editorconfig
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\obj\Debug\net7.0\Phase1Section4.25.5.AssemblyInfoInputs.cache
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\obj\Debug\net7.0\Phase1Section4.25.5.AssemblyInfo.cs
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\obj\Debug\net7.0\Phase1Section4.25.5.csproj.CoreCompileInputs.cache
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\obj\Debug\net7.0\Phase1Section4.25.5.dll
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\obj\Debug\net7.0\refint\Phase1Section4.25.5.dll
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\obj\Debug\net7.0\Phase1Section4.25.5.pdb
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\obj\Debug\net7.0\Phase1Section4.25.5.genruntimeconfig.cache
+M:\Phase-1 Assisted projects\Phase1Section4.25.5\Phase1Section4.25.5\obj\Debug\net7.0\ref\Phase1Section4.25.5.dll
